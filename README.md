@@ -13,7 +13,7 @@ This application allows you to change the image size using only the command line
 
 <code>wh-imgsizer FILE SIZE --name (optional)</code>
 
-Size should be in W-H format where X is width and Y is height.
+Size should be in W-H format where W is width and H is height.
 
 <code>user@:~$ wh-imgsizer image.jpg 800-600</code><br>
 <code>File image.jpg was resized to 800x600 and saved as image.jpg.</code><br>
